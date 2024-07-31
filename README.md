@@ -12,8 +12,6 @@
 - **대회 기간**: 2023.8.21 ~ 2023.10.20
 - **최종 순위**: 리더보드 4위
 
-
-
 <br>
 
 
@@ -83,12 +81,11 @@ bash inf.sh
 
 ## 성능
 - 감정 분석 (평균) multi_label_classification_micro_F1: `90.1516253`
-- **최종 리더보드 4등**
 
 
 <br>
 
-## 참고
+## 대회 링크
 - [국립국어원 인공지능 (AI)말평](https://kli.korean.go.kr/benchmark)
 - [2023 국립국어원 인공 지능 언어 능력 평가: AI 말평 대회 공고문](https://kli.korean.go.kr/benchmark/taskBoardsOrdtm/boardsOrdtm/noticeView.do?page=1&recordId=44&boardOrdtmId=&base.condition=boardOrdtm.title&base.keyword=&size=10)
 - [2023 국립국어원 인공지능 언어능력 평가 대회 리더보드](https://kli.korean.go.kr/benchmark/taskOrdtm/taskLeaderBoard.do?taskOrdtmId=103&clCd=END_TASK&subMenuId=sub04)
